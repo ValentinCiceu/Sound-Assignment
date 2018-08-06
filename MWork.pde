@@ -15,7 +15,7 @@ void intro() {
     beatMusic.rewind();
     beatTimer=0;
   }
-  frequency();
+  frequency(); //comment this out to disable guitar feedback
  
 
   noStroke();
@@ -132,7 +132,7 @@ float restartA, restartB, restartC, restartD, restartE, restartF, restartG;
 
 void shooterLevel() {
   shooterHud();
-  frequency();
+  frequency(); //comment this out to disable guitar feedback
   beatTimer+=beatTimerSpeed;
   if (beatTimer>0 && beatTimer<=3000) {
     beatMusic.play();
@@ -210,7 +210,7 @@ void shooterLevel() {
   if ( life ==0) {
     reset();
   }
-  frequency();
+  frequency(); //comment this out to disable guitar feedback
 
 
 

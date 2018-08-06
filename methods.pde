@@ -369,7 +369,7 @@ void solarSyetm() {
 
 void first() {  //stage 5         ///the planets
 
-  frequency();
+  frequency(); //comment this out to disable guitar feedback
   //muting beatMusic, playing my music
   if (stage==3) {
     if (beatTimer>0) {
@@ -429,8 +429,8 @@ void first() {  //stage 5         ///the planets
 ////////////////////////////////////////////////////////////////////////
 
 void visual() { //fully done.
-  frequency();
-  ai.setGain(-20);
+  frequency(); //comment this out to disable guitar feed back
+  //ai.setGain(-20);
   //aeroMusicTimer+=aeroMusicTimerSpeed;
   aero.setGain(-10); //aero music volume
   mainxAngle+=mainSpeedAngle;
@@ -672,7 +672,7 @@ void visual() { //fully done.
 void cubes() {
   //background(0);
   //println(box.size());
-  frequency();
+  frequency(); //comment this out to disable guitar feedback
   boxTimer+=boxTimerSpeed;
 
 

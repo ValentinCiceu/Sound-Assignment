@@ -487,7 +487,7 @@ void introToVisuals() {
       }
       textFont(playFont);
       color specialColor=lerpColor(special1, special2, nRate5);
-      frequency();
+      frequency(); //comment this out to disable guitar feed back
 
       listenShrink-=shrinkRate;
       if (listenShrink<5) {
