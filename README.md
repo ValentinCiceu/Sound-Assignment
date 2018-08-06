@@ -46,17 +46,17 @@ In this stage the user can press 1 , 2 , 3 and 4 to go through 4 modes of visual
 1: A 3D shape of pyramids and spheres starting big then grows small inside of each other
 Playing the guitar inverts the image. As the music continues, each poweful beat changes the colour and pulsates the shapes
 
-[insert the pic here]
+![pic6](https://user-images.githubusercontent.com/26767638/43739325-93d027ea-99bf-11e8-806f-6a3f1d466c0f.png)
 
 2: Cubed Corners. In this 3D cubes fly from the 4 corners into each other. Each beat changes the colour and pulsates the shapes.
 
-[insert pic here]
+![pic8](https://user-images.githubusercontent.com/26767638/43739717-ee8bb6ee-99c0-11e8-9c15-90dc9db80271.png)
 
 3: Mountain Creation.
 In this a 2.5D plane is played in the background and split into meshes. Each beat changes the colour of the plane. When the guitar is played mountains and hills start to form. the smoother you play the guitar the smoother are the "mountains". However the harder and louder you play the sharper and taller the "mountains become".
 
-[insert image here]
+![pic7](https://user-images.githubusercontent.com/26767638/43739455-07b56c1a-99c0-11e8-8443-0be0b08de4b2.png)
 
 4: Flower and Bubble mode.
-In this everytime you play the guitar bubbles appear on the screen randomly and flowers begin to spin on random points on the screen.
-[insert image here]
+In this everytime you play the guitar bubbles appear on the screen randomly and spin and flower in the centre of the
+![pic9](https://user-images.githubusercontent.com/26767638/43739740-fb6facf8-99c0-11e8-9090-e2035fc3a842.png)
