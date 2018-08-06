@@ -1,5 +1,8 @@
 # Sound-Assignment
-This is an assignment for games design where I created visuals for sounds using my electric guitar as the input. This was a team project for first year of Games Design. The original Repository is 
+This is an assignment for games design where I created visuals for sounds using my electric guitar as the input. This was a team project for first year of Games Design. The original Repository is
+
+![pic1](https://user-images.githubusercontent.com/26767638/43738628-3889ec06-99bd-11e8-8af2-9aed3df9f27f.png)
+
 [Original Repository link](https://github.com/Ignisdeus/Sound_Assinement)
 
 # What is the project about
@@ -22,7 +25,8 @@ The game is a duck shooter where ducks fly downwards to the fret and the player 
 We are using the 1st string on the guitar as the controller.
 The goal of the game is to attempt to recieve the highest score and to prevent the ducks from flying all the way down to toch the fret.
 
-[insert pic]
+![pic2](https://user-images.githubusercontent.com/26767638/43738689-64925810-99bd-11e8-9f28-cb98e3c2669e.png)
+
 # Flow State Mode
 This is the main part of the sketch.
 In this you go through various scenes and using the guitar to pass through each scene.
@@ -30,7 +34,8 @@ In this you go through various scenes and using the guitar to pass through each 
 The scenes consists of a solar system where planets revolves around the sun and as you play the guitar the sun shrinks to the point where a black hole emerges and eats the other planets. You have to continue playing the guitar to constantly feed the black holes and let it grow larger.
 A calming music is played in the background as you progress
 
-[insert pic]
+![pic3](https://user-images.githubusercontent.com/26767638/43738733-911c2c12-99bd-11e8-8c7b-5203e21620f7.png)
+![pic5](https://user-images.githubusercontent.com/26767638/43738751-9ffcc28c-99bd-11e8-8839-a56ed229dc72.png)
 
 Then after this scene you enter the music part of the project where a dubstep music is played and based on the beats of the song, shapes pulsate to it. Also the guitar is still used to create some affects.
 
