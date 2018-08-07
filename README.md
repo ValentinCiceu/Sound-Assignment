@@ -39,7 +39,7 @@ A calming music is played in the background as you progress
 
 Then after this scene you enter the music part of the project where a dubstep music is played and based on the beats of the song, shapes pulsate to it. Also the guitar is still used to create some affects.
 
-In this stage the user can press 1 , 2 , 3 and 4 to go through 4 modes of visualisation
+In this stage the user can press the 4 arrow keys go through 4 modes of visualisation
 
 
 ### What are these visualisation modes?
